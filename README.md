@@ -5,11 +5,11 @@
 ## Sommaire
 
 - [Sur le serveur PDC:](#sur-le-serveur-pdc)
-  - [Rôles ADDS&DNS :](#rôles-addsdns )
+  - [Rôles ADDS&DNS :](#rôles-addsdns)
   - [Serveur DHCP](#serveur-dhcp)
   - [Structure et utilisateurs](#structure-et-utilisateurs)
 - [Sur le serveur ADC:](#sur-le-serveur-adc)
-  - [Rôles ADDS&DNS](#rôles-addsdns)
+  - [Rôles ADDS&DNS](#rôles-addsdns-1)
 - [Sur le serveur RTR01:](#sur-le-serveur-rtr01)
 - [Partage de ressources :](#partage-de-ressources-)
 - [Stratégies de groupes](#stratégies-de-groupes)
