@@ -16,6 +16,9 @@
 - [Mise en place de quotas et filtres](#mise-en-place-de-quotas-et-filtres)
 - [Intervention sur infrastructure existante :](#intervention-sur-infrastructure-existante-)
 
+| Redigé par | Illyes Zerga |
+|---|---|
+
 ## Sur le serveur PDC:
 
 ### Rôles ADDS&DNS :
